@@ -1,4 +1,4 @@
-**1. From this list, rank your 5 most favourite and 5 least favourite support tasks. Provide a brief explanation for each.**
+### 1. From this list, rank your 5 most favourite and 5 least favourite support tasks. Provide a brief explanation for each.**
 
 ### Most favourite tasks
 
@@ -44,17 +44,17 @@
 
     I’m comfortable working technical issues rather than billing concerns. Whenever these issues arise, I will do what I can in order to understand the customer’s use-case offer a good solution, however I will revert to the billing team for bill-specific issues,
 
-### What do you want to learn or do more of at work?
+### 2. What do you want to learn or do more of at work?
 
 There are many areas that I want to develop my skills, this ranges from networking, to research to code-development. Currently, the main area I hope to improve is my time management skills. This is a continual work in progress and something I am always developing. Time management leads to improved decision making, increased productivity, higher quality of work, and improved work-life balance; these are all areas that I continue to work on and never want to neglect.
 
-**Coding** 
+**Coding**
 I'm very technically minded, but I'm only okay with code. I can work with other people's code, but I'm not so hot with writing my own. Were I to find a home at Vercel, I'd really love the opportunity to take advantage of the resources and people in a company like this, and finally learn to code in earnest. I have experience with a number of languages, however I want to develop stronger knowledge of more advanced code skills.
 
-**Cloud Infrastructure knowledge** 
-My cloud knowledge is good - but I want to continue to develop this in order to understand exactly the methods of building out large applications using a number of distributed services with failover and fallback plans in place. 
+**Cloud Infrastructure knowledge**
+My cloud knowledge is good - but I want to continue to develop this in order to understand exactly the methods of building out large applications using a number of distributed services with failover and fallback plans in place.
 
-### Describe how you solved a challenge or technical issue that you faced in a previous role (preferably in a previous support role). How did you determine that your solution was successful?
+### 3. Describe how you solved a challenge or technical issue that you faced in a previous role (preferably in a previous support role). How did you determine that your solution was successful?
 
 When troubleshooting issues I use the following troubleshooting methodology:
 
@@ -76,7 +76,7 @@ Specific steps were written in detail to the customer in an email ticket which a
 
 Once confirmed that the changes were made I confirmed this on my end and waited until the DNS had propagated. Once the domain was being served by the correct DNS records, the updated TLS certificate displayed and the error cleared. These findings were documented to the customer with links to the documentation provided for next time the change is required.
 
-### When would you choose to use Edge Functions, Serverless Functions, or Edge Middleware with Vercel?**
+### 4. When would you choose to use Edge Functions, Serverless Functions, or Edge Middleware with Vercel?**
 
 **Edge Functions**
 
@@ -90,7 +90,7 @@ Serverless functions are ideal for building websites and web apps, allowing dev
 
 Edge Functions are used for for low-latency global execution. Responses from Edge Functions can be *cached* and *streamed* in real time. Globally distributed by default. Lightweight with a slim runtime. Pricing is based on compute time.
 
-### Imagine a customer writes in requesting help with a build issue on a framework or technology that you've not seen before. How would you begin troubleshooting this and what questions would you ask the customer to understand the situation better?
+### 5. Imagine a customer writes in requesting help with a build issue on a framework or technology that you've not seen before. How would you begin troubleshooting this and what questions would you ask the customer to understand the situation better?
 
 If the customer is asking about a framework or technology I have not seen before I will first research the area. I will start by looking at the Vercel documentation, both internal and external. If this does not yield helpful results I will search Google, pin-pointing results from Stack Overflow and [Dev.to](http://Dev.to) as places known for strong updates on the latest technologies.
 
@@ -98,7 +98,7 @@ In order to troubleshoot the issue, I would ask the customer what they are hopin
 
 Once I have a full understanding of what they hope to achieve I will do my best to provide sufficient information to them. If I still require further guidance I will speak with someone in my team who has knowledge in this area followed by asking in an appropriate channel before escalating the ticket internally.
 
-### The customer from question 5 replies to your response with the below: “I’m so frustrated. I’ve been trying to make this work for hours and I just can’t figure it out. It must be a platform issue so just fix it for me instead of asking me questions.” Please write a follow-up reply to the customer.**
+### 6. The customer from question 5 replies to your response with the below: “I’m so frustrated. I’ve been trying to make this work for hours and I just can’t figure it out. It must be a platform issue so just fix it for me instead of asking me questions.” Please write a follow-up reply to the customer.**
 
 Hi [name]
 
@@ -108,7 +108,7 @@ In order to get your moving, we require as much detail as possible on the partic
 
 I will be escalating your ticket to our more senior team, where a senior engineer with experience in this technology will provide you with further guidance.
 
-### A customer writes in to the Helpdesk asking "How do I do a redirect from the /blog path to [https://example.com](https://example.com/)?" Please write a reply to the customer. Feel free to add any information about your decision making process after the reply.
+### 7. A customer writes in to the Helpdesk asking "How do I do a redirect from the /blog path to [https://example.com](https://example.com/)?" Please write a reply to the customer. Feel free to add any information about your decision making process after the reply
 
 There are a number of ways to implement a redirect within Vercel.
 
@@ -138,7 +138,7 @@ For more detail on this please see the below documentation pages:
 - <https://vercel.com/docs/projects/project-configuration#redirects>
 - <https://vercel.com/docs/edge-network/redirects#adding-redirects>
 
-### A customer is creating a site and would like their project not to be indexed by search engines. Please write a reply to the customer. Feel free to add any information about your decision making process after the reply.
+### 8. A customer is creating a site and would like their project not to be indexed by search engines. Please write a reply to the customer. Feel free to add any information about your decision making process after the reply
 
 Hi [name]
 
@@ -166,7 +166,7 @@ If you have any other issues or specific questions regarding HTTP headers please
 
 In this response, I have added some detail that will answer the customer’s question quickly, while providing the documentation page and directions to enable the full response which can be found on the documentation.
 
-### What do you think is one of the most common problems which customers ask Vercel for help with? How would you help customers to overcome common problems, short-term and long-term?
+### 9. What do you think is one of the most common problems which customers ask Vercel for help with? How would you help customers to overcome common problems, short-term and long-term?
 
 My understanding is that build issues would be the most common - this includes understanding build errors and logs.
 
@@ -174,7 +174,7 @@ I would help customers overcome these issues in short-term by ensuring public do
 
 A long-term solution may be an ‘academy’ or educational programme that users can complete in order to become familiar with the platform and understand it fully.
 
-### How could we improve or alter this familiarisation exercise?
+### 10. How could we improve or alter this familiarisation exercise?
 
 - Some of the tasks are repetitive. With a number of options available and not a lot of detail provided in the questions.
 - It is difficult to gauge the response required.
