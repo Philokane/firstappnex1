@@ -22,7 +22,7 @@
 
     It is important that the company keeps in touch with the developer community and is able to see where the users are in order to fully understand the user-base as well as improving the services and products offered. I am comfortable communicating in these spaces as I see the importance of being in the spaces that our users and customers are.
 
-### Least Favourite tasks**
+### Least Favourite tasks
 
 1. **Find and recruit teammates for the support team**
 
